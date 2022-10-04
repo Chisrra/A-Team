@@ -23,8 +23,11 @@ Print a single integer — the number of problems the friends will implement on 
 <h6>Input</h6>
 
 >3
+
 >1 1 0
+
 >1 1 1
+
 >1 0 0
 
 
@@ -37,7 +40,9 @@ Print a single integer — the number of problems the friends will implement on 
 <h6>Input</h6>
 
 >2
+
 >1 0 0
+
 >0 1 1
 
 
