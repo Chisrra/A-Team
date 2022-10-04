@@ -44,3 +44,7 @@ Print a single integer — the number of problems the friends will implement on 
 <h6>Output</h6>
 
 >1
+
+
+## Codeforces Link
+[A-Team](https://codeforces.com/problemset/problem/231/A)
